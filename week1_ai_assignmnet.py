@@ -1,3 +1,4 @@
+# AI 프로그래밍 입문 - Week 1
 # antigravity 세팅해서 간단한 프로젝트 만들어서 github repository 로 push하기
 
 # turtle을 이용해서 네잎크로버 그리기
